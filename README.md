@@ -1,4 +1,4 @@
-# LHD_DAY_2_Face_Recognition
+Face_Recognition
 <!-- PROJECT LOGO -->
 <h1 align="center"> Face_Recognition </h1>
 <p align="center">
@@ -51,10 +51,6 @@ Due to the time constraint of the hackathon, many things were accomplished only 
 
 
 ## Guide to setup the project locally
-   ```
-Clone the repo
-   ```sh
-   git clone https://github.com/Hemang417/LHD_DAY_2_Face_Recognition.git
    ```
 
 
